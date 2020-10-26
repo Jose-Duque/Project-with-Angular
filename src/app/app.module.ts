@@ -17,6 +17,7 @@ import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { BluevioletDirective } from './directives/blueviolet.directive';
 import { ForDirective } from './directives/for.directive';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 
 
 @NgModule({
@@ -29,6 +30,7 @@ import { ForDirective } from './directives/for.directive';
     ProductCrudComponent,
     BluevioletDirective,
     ForDirective,
+    ProductCreateComponent,
   ],
   imports: [
     BrowserModule,
