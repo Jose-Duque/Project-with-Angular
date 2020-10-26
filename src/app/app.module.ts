@@ -12,6 +12,11 @@ import { NavComponent } from './components/template/nav/nav.component';
 
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
+import { MatCardModule } from '@angular/material/card';
+import { HomeComponent } from './views/home/home.component';
+import { ProductCrudComponent } from './views/product-crud/product-crud.component';
+import { BluevioletDirective } from './directives/blueviolet.directive';
+import { ForDirective } from './directives/for.directive';
 
 
 @NgModule({
@@ -20,6 +25,10 @@ import { MatListModule } from '@angular/material/list';
     HeaderComponent,
     FooterComponent,
     NavComponent,
+    HomeComponent,
+    ProductCrudComponent,
+    BluevioletDirective,
+    ForDirective,
   ],
   imports: [
     BrowserModule,
@@ -28,6 +37,7 @@ import { MatListModule } from '@angular/material/list';
     MatToolbarModule,
     MatSidenavModule,
     MatListModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
