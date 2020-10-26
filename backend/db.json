@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 2.33
+    },
+    {
+      "id": 2,
+      "name": "Caderno de 10 materia",
+      "price": 22.73
+    },
+    {
+      "id": 3,
+      "name": "Borracha",
+      "price": 1.99
+    },
+    {
+      "name": "Web Front-end",
+      "price": "1246.45",
+      "id": 4
+    },
+    {
+      "name": "Rinoceronte",
+      "price": "345.56416",
+      "id": 5
+    }
+  ]
+}
