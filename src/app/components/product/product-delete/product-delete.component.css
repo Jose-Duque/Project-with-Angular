@@ -1,7 +1,7 @@
 form {
   width: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: ;
 }
 
 button {
@@ -10,5 +10,5 @@ button {
 }
 
 .btn-color {
-  background-color: rgb(199, 160, 235);
+  background-color: #ee5d5d;
 }
