@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta Bic",
-      "price": 2.33
+      "price": "2.37"
     },
     {
       "id": 2,
@@ -27,23 +27,13 @@
     },
     {
       "name": "Notebook",
-      "price": "7548,00",
+      "price": "7548.23",
       "id": 6
     },
     {
-      "name": "josé",
+      "name": "Ipad",
       "price": "1246.45",
       "id": 7
-    },
-    {
-      "name": "Notebook Dell",
-      "price": "124564.31",
-      "id": 8
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 9
     }
   ]
 }
