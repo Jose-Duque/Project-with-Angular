@@ -1,12 +1,13 @@
 form {
   width: 100%;
   display: flex;
-  flex-direction: ;
+  flex-direction: column;
 }
 
 button {
   margin-top: 1.3rem;
   margin-right: 1rem;
+  background-color: #5de958;;
 }
 
 .btn-color {
