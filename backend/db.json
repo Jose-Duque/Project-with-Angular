@@ -24,6 +24,26 @@
       "name": "Rinoceronte",
       "price": "345.56416",
       "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": "7548,00",
+      "id": 6
+    },
+    {
+      "name": "josé",
+      "price": "1246.45",
+      "id": 7
+    },
+    {
+      "name": "Notebook Dell",
+      "price": "124564.31",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
     }
   ]
 }
